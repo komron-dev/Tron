@@ -35,5 +35,4 @@ The game uses an PostgreSQL database to store scores. The schema consists of a `
 - `id` (INTEGER, PRIMARY KEY, AUTOINCREMENT)
 - `player_name` (TEXT)
 - `score` (INTEGER)
--
 
